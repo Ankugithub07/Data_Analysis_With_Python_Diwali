@@ -1,4 +1,4 @@
-# Data_Analysis_With_Python_Diwali
+# Data_Analysis_With_Python_Diwali_Sales
 Performed Data Cleaning and manipulation
 Performed Exploratory data analysis (EDA) using pandas, matplotib and seaborn python lib.
 Improved Customer experience by identifying potential customer across different states, occupation, gender and age groups.
